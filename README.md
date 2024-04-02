@@ -15,6 +15,9 @@
 ![](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![](https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+![](https://img.shields.io/badge/react%20dom%20testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
+
 ## Projects
 
 ### 2024
