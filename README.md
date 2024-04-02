@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/zustand-%2320232a.svg?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/tailwindCSS-06B6D4?style=flat-square&logo=tailwindCSS&logoColor=white)
 
 ![](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -16,7 +17,7 @@
 ![](https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ![](https://img.shields.io/badge/react%20dom%20testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Vitest-%23646CFF.svg?style=flat-square&logoColor=white)
 
 ## Projects
 
