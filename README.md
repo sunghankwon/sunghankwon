@@ -19,6 +19,7 @@
 
 ![](https://img.shields.io/badge/react%20dom%20testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Vitest-%23646CFF.svg?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 
 ## Projects
 
