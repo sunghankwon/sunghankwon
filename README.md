@@ -1,5 +1,5 @@
 ### 안녕하세요 권성한입니다👋
-### 꾸준히 배우고 발전해가는 신입개발자입니다.
+### 꾸준히 배우고 발전해가는 개발자입니다.
 
 ## Tools and Skills
 
@@ -31,6 +31,11 @@
 ### [Word2Markdown](https://github.com/sunghankwon/W2M)
 - docx로 작성된 문서를 markdown으로 변경해주는 웹 애플리케이션
 
+## Contect
+
+Email: sunghan920929@gamil.com
+
+Blog:  [https://velog.io/@sunghankwon/posts](https://velog.io/@sunghankwon/posts)
 
 ---
 
