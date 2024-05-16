@@ -35,7 +35,7 @@
 
 Email: sunghan920929@gamil.com
 
-Blog:  [https://velog.io/@sunghankwon/posts](https://velog.io/@sunghankwon/posts)
+Notion: [스터디로그](https://boom-plant-4c9.notion.site/sunghan-study-68e70a6f34cf47cf9bd2a29b67418331)
 
 ---
 
