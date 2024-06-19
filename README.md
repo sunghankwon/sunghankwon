@@ -33,7 +33,7 @@
 
 ## Contect
 
-Email: sunghan920929@gamil.com
+Email: sunghan920929@gmail.com
 
 Notion: [스터디로그](https://boom-plant-4c9.notion.site/sunghan-study-68e70a6f34cf47cf9bd2a29b67418331)
 
