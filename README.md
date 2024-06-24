@@ -31,7 +31,7 @@
 ### [Word2Markdown](https://github.com/sunghankwon/W2M)
 - docx로 작성된 문서를 markdown으로 변경해주는 웹 애플리케이션
 
-## Contect
+## contact
 
 Email: sunghan920929@gmail.com
 
